@@ -18,7 +18,13 @@ Mixiaoxiao provided the fireware file of the AC controller, which is pretty and 
 * change the AC type in ESP-Homekit-ACContoller.ino in line 57, default is KELVINATOR (Gree default protocol)
 
 
-## TODO
+## Todo
 * add configuration webpage to change the AC type  with change the source code.
 * add configuration webpage to change gpio pin code
 * add wifimanager support
+
+## Thanks
+* [Mixiaoxiao/Arduino-HomeKit-ESP8266]esp-homekit(https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266/)
+* [esp-homekit](https://github.com/maximkulkin/esp-homekit)
+* [esp-homekit-demo](https://github.com/maximkulkin/esp-homekit-demo)
+* [bznsix](https://github.com/bznsix/8266IrRemote)
